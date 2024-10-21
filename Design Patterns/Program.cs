@@ -1,1 +1,3 @@
-﻿Console.WriteLine("Hello, World!");
+﻿using Design_Patterns;
+
+new FactoryPAtternMainProcess().ExecMain();
