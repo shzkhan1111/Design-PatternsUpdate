@@ -1,3 +1,12 @@
 ﻿using Design_Patterns;
 
-new FactoryPAtternMainProcess().ExecMain();
+//new FactoryPAtternMainProcess().ExecMain();
+
+//new AbstractFactoryExecuteMain().ProcessExec();
+
+//ClassAdapter c = new ClassAdapter();
+//c.ExecOldMethod();
+
+//oldAdapteeThatIsntCompatible ce = new oldAdapteeThatIsntCompatible();
+//ObjectAdapter o = new ObjectAdapter(ce);
+//o.ExecOldMethod();
