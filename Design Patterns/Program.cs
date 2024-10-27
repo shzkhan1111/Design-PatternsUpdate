@@ -14,4 +14,6 @@
 //decmain decmain = new decmain();
 //decmain.execmain();
 
-new ChainOfCommandClient().PrepareRequest();
+//new ChainOfCommandClient().PrepareRequest();
+
+new Invoker().CommandPatternMain();
