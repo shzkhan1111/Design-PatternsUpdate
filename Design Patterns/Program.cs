@@ -11,5 +11,7 @@
 //ObjectAdapter o = new ObjectAdapter(ce);
 //o.ExecOldMethod();
 
-decmain decmain = new decmain();
-decmain.execmain();
+//decmain decmain = new decmain();
+//decmain.execmain();
+
+new ChainOfCommandClient().PrepareRequest();
