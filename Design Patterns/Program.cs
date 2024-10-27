@@ -10,3 +10,6 @@
 //oldAdapteeThatIsntCompatible ce = new oldAdapteeThatIsntCompatible();
 //ObjectAdapter o = new ObjectAdapter(ce);
 //o.ExecOldMethod();
+
+decmain decmain = new decmain();
+decmain.execmain();
