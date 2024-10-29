@@ -16,4 +16,5 @@
 
 //new ChainOfCommandClient().PrepareRequest();
 
-new Invoker().CommandPatternMain();
+//new Invoker().CommandPatternMain();
+//new MainInterator().ExecMain();
