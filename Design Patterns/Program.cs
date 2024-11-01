@@ -19,4 +19,10 @@
 //new Invoker().CommandPatternMain();
 //new MainInterator().ExecMain();
 
-new MediatorProgramCS().ExecMain();
+//new MediatorProgramCS().ExecMain();
+
+new GenericExecMain().ExecMain();
+
+
+
+
